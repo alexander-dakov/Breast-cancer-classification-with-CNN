@@ -1,2 +1,2 @@
 # Breast-cancer-classification-with-CNN
-Binary classification of images with breast cancer tissue with the help of convolutional neural networks (CNNs)
+Binary classification of images with breast cancer tissue with the help of convolutional neural networks (CNNs).  The dataset can be found on Kaggle.
